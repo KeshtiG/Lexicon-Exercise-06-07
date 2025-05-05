@@ -173,6 +173,12 @@ a:hover {
     color: #fff;
 }
 
+.movie-logo {
+    width: 30%;
+    margin-top: 3rem;
+}
+
+
 /***** FOOTER *****/
 #site-footer {
     height: 50px;
